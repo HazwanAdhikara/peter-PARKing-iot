@@ -1,0 +1,8 @@
+# IoT LLM
+.iot-llm
+
+# environment files
+.env
+
+# Firebase credentials
+firebase_credentials.json
